@@ -6,6 +6,19 @@ Sou apaixada por tecnologia e programação.
 - 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
  - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
 
+### 🚀 Minhas Hard Skills
+
+
+
+
+
+### Minhas Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceliaLima&show_icons=true&theme=radical)
+
+
+
+
+
 <!--
 **LuceliaLima/LuceliaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
