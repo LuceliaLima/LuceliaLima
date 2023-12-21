@@ -13,7 +13,7 @@ Sou apaixada por tecnologia e programação.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,aws,r,github,linux,powershell,vscode" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Sou apaixada por tecnologia e programação.
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/LuceliaLima" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuceliaLima&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
@@ -39,7 +39,8 @@ Sou apaixada por tecnologia e programação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelialima/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuceliaLima)
-[![Gmail Badge](https://img.shields.io/badge/-celia.lsouzaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
+
 
 
 
