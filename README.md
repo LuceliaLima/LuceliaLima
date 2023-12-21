@@ -9,6 +9,11 @@ Sou apaixada por tecnologia e programação.
 ### 🚀 Minhas Hard Skills
 
 
+          
+          
+          
+          
+
 
 
 
@@ -16,7 +21,7 @@ Sou apaixada por tecnologia e programação.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceliaLima&show_icons=true&theme=radical)
 
 
-
+     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 <!--
