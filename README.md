@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá!, Eu sou Lucelia Lima 👋
+
+Sou apaixada por tecnologia e programação.
+
+- 💻 Estou em busca de experiência na área de Segurança da Informação ou Ciência de Dados
+- 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
+ - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
 
 <!--
 **LuceliaLima/LuceliaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
