@@ -9,17 +9,16 @@ Sou apaixada por tecnologia e programação.
 - 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
  - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
 
-### 🚀 Minhas Hard Skills
+### 🚀 Minhas Hard Skills e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,discord" />
+    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,vscode" />
   </a>
 </p>
           
           
-    
-
+  
 ### 📌 Minhas Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceliaLima&show_icons=true&theme=radical)
 
@@ -33,7 +32,12 @@ Sou apaixada por tecnologia e programação.
   <a href="https://www.linkedin.com/in/lucelialima/) title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
+  <a href="https://wa.me/558988153867" title="Discord">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
 
+  <a href="https://www.instagram.com/lucelia/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+</p>
 
 
 
