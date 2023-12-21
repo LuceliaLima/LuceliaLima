@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 ## Olá!, Eu sou Lucelia Lima 👋
 
 Sou apaixada por tecnologia e programação.
@@ -8,20 +11,34 @@ Sou apaixada por tecnologia e programação.
 
 ### 🚀 Minhas Hard Skills
 
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,discord" />
+  </a>
+</p>
           
           
-          
-          
+    
 
-
-
-
-### Minhas Stats
+### 📌 Minhas Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceliaLima&show_icons=true&theme=radical)
 
 
-     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+### 📊 Estatísticas
+
+
+
+### 📱 Meus Contatos
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucelialima/) title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+
+
+
+
+
+
 
 
 <!--
