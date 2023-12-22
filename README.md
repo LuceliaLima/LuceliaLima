@@ -5,7 +5,7 @@
 
 Sou apaixada por tecnologia e programação.
 
-- 💻 Estou em transição de carreira na área de Segurança da Informação ou Ciência de Dados
+- 💻 Estou em transição de carreira para área de Segurança da Informação ou Ciência de Dados
 - 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
  - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
 
