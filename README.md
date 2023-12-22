@@ -3,11 +3,13 @@
 
 ## Olá!, Eu sou Lucelia Lima 👋
 
-Sou apaixada por tecnologia e programação.
+❤️Sou apaixada por tecnologia e programação.
 
 - 💻 Estou em transição de carreira para área de Segurança da Informação ou Ciência de Dados
-- 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
- - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
+- 👩‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
+ - 📚 Residência em Sistema da Informação pela Universidade Federal do Ceará - UFC
+ - 🎓 Pós-graduação em Computação Forense & Perícia Digital - IPOG
+ - 📒 Pós-graduação em Segurança de Redes de Computadores - Faculdade Unyleya
 
 ### 🚀 Minhas Hard Skills e Ferramentas
 
