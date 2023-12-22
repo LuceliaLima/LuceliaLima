@@ -5,7 +5,7 @@
 
 Sou apaixada por tecnologia e programação.
 
-- 💻 Estou em busca de experiência na área de Segurança da Informação ou Ciência de Dados
+- 💻 Estou em transição de carreira na área de Segurança da Informação ou Ciência de Dados
 - 👨🏻‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
  - 📚 Residente em Sistema de Informação pela Universidade Federal do Ceará - UFC
 
@@ -39,14 +39,14 @@ Sou apaixada por tecnologia e programação.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuceliaLima&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
+
+
 ### 📱 Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelialima/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuceliaLima)
 [![Gmail Badge](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-lucelialima/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-
 
 
 
