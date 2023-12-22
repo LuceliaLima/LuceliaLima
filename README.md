@@ -38,8 +38,12 @@
 ### 📊 Estatísticas
 
 <a href="https://github.com/LuceliaLima" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuceliaLima&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuceliaLima&theme=dracula&hide_langs_below=1&layout=compact" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
+
+
+
+
 
 
 
@@ -49,6 +53,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuceliaLima)
 [![Gmail Badge](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-lucelialima/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 
