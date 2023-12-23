@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+
+
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3nebirI/giphy.gif" width="50">
@@ -18,7 +20,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,aws,r,github,linux,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,vscode" />
   </a>
 </p>
 
@@ -30,7 +32,13 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
           
+### 📕 Linguagens que estou aprendendo:
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,java,r,mongodb" />
+  </a>
+</p>
           
           
   
@@ -38,25 +46,13 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceliaLima&show_icons=true&theme=radical)
 
 
-### 📊 Estatísticas
-
-<a href="https://github.com/LuceliaLima" title="ilustração do mapeamento de linguagens">
-  <img align="center" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuceliaLima&theme=dracula&hide_langs_below=1&layout=compact" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-
 
 ### 📱 Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelialima/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuceliaLima)
-[![Gmail Badge](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-lucelialima/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-
-
-
-# Teste
+[![Gmail](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucelialima)
 
 
 
