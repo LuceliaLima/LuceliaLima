@@ -11,10 +11,11 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 ❤️Sou apaixada por tecnologia e programação.
 
 - 💻 Estou em transição de carreira para área de Segurança da Informação ou Ciência de Dados
-- 👩‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA
- - 📚 Residência em Sistema da Informação pela Universidade Federal do Ceará - UFC
+- 👩‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA ([Artigo](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/21602))
+ - 📚 Residência em Sistema da Informação pela Universidade Federal do Ceará - UFC ([Projeto UFC-SIDI](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi))
  - 🎓 Pós-graduação em Computação Forense & Perícia Digital - IPOG
  - 📒 Pós-graduação em Segurança de Redes de Computadores - Faculdade Unyleya
+
 
 ### 🚀 Minhas Hard Skills e Ferramentas
 
