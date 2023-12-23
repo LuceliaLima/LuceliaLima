@@ -52,7 +52,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelialima/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuceliaLima)
 [![Gmail](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Lucelia#2182)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Lucelia2182)
 
 
 
