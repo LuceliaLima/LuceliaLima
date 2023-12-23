@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
-## Olá!, Eu sou Lucelia Lima 👋
 
 ❤️Sou apaixada por tecnologia e programação.
 
@@ -43,10 +46,6 @@
 
 
 
-
-
-
-
 ### 📱 Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelialima/)
@@ -54,6 +53,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-celia.lsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celia.lsouza@gmail.com)](mailto:celia.lsouza@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-lucelialima/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+
+
+
+# Teste
 
 
 
