@@ -8,7 +8,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 </h1>
 
 
-❤️Sou apaixada por tecnologia e programação.
+### ❤️ Sou apaixada por tecnologia e programação.
 
 - 💻 Estou em transição de carreira para área de Segurança da Informação ou Ciência de Dados
 - 👩‍🎓 Mestra em Ciência da Computação pela Universidade Federal do Maranhão - UFMA ([Artigo](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/21602))
