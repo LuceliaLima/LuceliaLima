@@ -33,7 +33,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
           
-### 📕 Linguagens que estou aprendendo:
+### 📕 Linguagens que estou estudando:
 
 <p align="left">
   <a href="https://skillicons.dev">
