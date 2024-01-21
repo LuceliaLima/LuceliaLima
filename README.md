@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <img src="https://cdna.artstation.com/p/assets/images/images/038/243/184/original/julie-lafille-gif-outro.gif?1622566380" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
