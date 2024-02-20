@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"1622566380" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">>
 </p>
 
 
