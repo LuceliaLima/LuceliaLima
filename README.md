@@ -31,6 +31,8 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white).
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0).
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://github.com/user-attachments/assets/7f0d1e41-fd28-4e92-844d-9fe2747d6a99)
+![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)
 
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
