@@ -32,7 +32,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/7f0d1e41-fd28-4e92-844d-9fe2747d6a99" alt="Excel" width="50">
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="50">
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon" width="50">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Mysql Icon" width="50">
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="PowerBi Icon" width="50">
