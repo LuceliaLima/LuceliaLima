@@ -24,19 +24,26 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,git,aws,github,linux,powershell,vscode,figma,notion,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,git,aws,github,linux,powershell,vscode,notion,sklearn" />
   </a>
 </p>
 
-![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white).
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0).
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://github.com/user-attachments/assets/7f0d1e41-fd28-4e92-844d-9fe2747d6a99)
-![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)
+<!--![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)-->
 
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/7f0d1e41-fd28-4e92-844d-9fe2747d6a99" alt="Excel" width="50">
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon" width="50">
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Mysql Icon" width="50">
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="PowerBi Icon" width="50">
+  <img src="https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000" alt="Windows Icon" width="50">
+  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="Figma Icon" width="50">
+</div>
+
+
+
+
+
           
 ### 📕 Linguagens que estou estudando:
 
