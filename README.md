@@ -24,7 +24,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,aws,github,linux,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,git,aws,github,linux,powershell,vscode,figma,notion,sklearn" />
   </a>
 </p>
 
