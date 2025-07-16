@@ -63,7 +63,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 - 🔗 ([Projeto 1 - Projeto Acadêmico, na criação de um Pipeline para Detecção de Intrusão em Redes IoT utilizando Aprendizado de Máquina](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi))
 - 🔗 ([Projeto 2 - Projeto de Bootcamp Data Analytics, com diversas analises em Python, Power BI, Testes de hipóteses, SQL, Google Sheets e outros](https://github.com/LuceliaLima/bootcamp_data_analytics.git))
-- 🔗 ([Projeto 3 – Projeto de Desafio Cientista de Dados da Indicium, desenvolver um modelo de previsão de preços na plataforma de aluguéis temporários na cidade de Nova York](https://github.com/seuusuario/projeto3](https://github.com/LuceliaLima/LH_CD_LUCELIA.git))
+- 🔗 ([Projeto 3 – Projeto de Desafio Cientista de Dados da Indicium, desenvolver um modelo de previsão de preços na plataforma de aluguéis temporários na cidade de Nova York](https://github.com/LuceliaLima/LH_CD_LUCELIA.git))
 
 ---
 
