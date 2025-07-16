@@ -61,9 +61,9 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [Projeto 1 – Descrição breve]([https://github.com/seuusuario/projeto1](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi.git))
-- 🔗 [Projeto 2 – Descrição breve]([https://github.com/seuusuario/projeto2](https://github.com/LuceliaLima/bootcamp_data_analytics.git))
-- 🔗 [Projeto 3 – Descrição breve]([https://github.com/seuusuario/projeto3](https://github.com/LuceliaLima/LH_CD_LUCELIA.git))
+- 🔗 ([Projeto 1 – Descrição breve]([https://github.com/seuusuario/projeto1](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi.git)))
+- 🔗 ([Projeto 2 – Descrição breve]([https://github.com/seuusuario/projeto2](https://github.com/LuceliaLima/bootcamp_data_analytics.git)))
+- 🔗 ([Projeto 3 – Descrição breve]([https://github.com/seuusuario/projeto3](https://github.com/LuceliaLima/LH_CD_LUCELIA.git)))
 
 ---
 
