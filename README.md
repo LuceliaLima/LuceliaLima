@@ -70,7 +70,7 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 ## 💬 Frase que me inspira
 
-_"A melhor maneira de prever o futuro é criá-lo."_ — Peter Drucker
+_"O sucesso é a soma de pequenos esforços repetidos dia após dia."_ — Robert Collier
 
 
 ### 📱 Meus Contatos
