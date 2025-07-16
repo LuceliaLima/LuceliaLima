@@ -71,6 +71,65 @@ Olá!, Eu sou Lucelia Lima<img src="https://media.giphy.com/media/kMbO7PDtEDB3ne
 
 
 
+
+
+
+
+# 👋 Olá! Eu sou [Seu Nome]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=flat&logo=github)](https://seuportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+## 🧠 Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos aprendizados e desafios. Tenho experiência com desenvolvimento web, APIs e soluções full stack.
+
+- 🔭 Atualmente trabalhando em: **[Projeto atual]**
+- 🌱 Aprendendo: **[Tecnologia ou conceito atual]**
+- 💬 Pergunte-me sobre: **JavaScript, React, Node.js, APIs REST**
+- 📫 Como me encontrar: **[Email ou LinkedIn]**
+- ⚡ Curiosidade: **[Algo divertido ou interessante sobre você]**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+## 📈 GitHub Stats
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projetos em destaque
+
+- 🔗 [Projeto 1 – Descrição breve](https://github.com/seuusuario/projeto1)
+- 🔗 [Projeto 2 – Descrição breve](https://github.com/seuusuario/projeto2)
+- 🔗 [Projeto 3 – Descrição breve](https://github.com/seuusuario/projeto3)
+
+---
+
+## 💬 Frase que me inspira
+
+_"A melhor maneira de prever o futuro é criá-lo."_ — Peter Drucker
+
+
+
+
+
 <!--
 **LuceliaLima/LuceliaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
